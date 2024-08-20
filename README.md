@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at <a href="https://josephhelfenbein.vercel.app" target="_blank">https://josephhelfenbein.vercel.app</a></p>
+<p align="left">👨‍💻 All of my projects are available at <a href="https://www.josephhelfenbein.com/" target="_blank">https://www.josephhelfenbein.com/</a></p>
 
 ###
 
