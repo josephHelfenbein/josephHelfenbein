@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Languages</p>
+<h3 align="left">Languages</h3>
 
 ###
 <div align="left">
@@ -49,18 +49,31 @@
 
 ###
 
-<p align="left">Frameworks & Libraries</p>
+<h3 align="left">Frameworks & Libraries</h3>
 
 ###
+
+3D
 
 <div align="left">
   <a href="https://www.opengl.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="40" alt="opengl logo"  />
   </a>
   <img width="12" />
+  <a href="https://www.khronos.org/webgl/" target="_blank">
+    <img src="https://img.shields.io/badge/webgl-red?logo=webgl&style=for-the-badge&logoColor=white" height="40" alt="webgl logo"  />
+  </a>
+  <img width="12" />
   <a href="https://threejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
   </a>
+</div>
+
+###
+
+Web
+
+<div align="left">
   <img width="12" />
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
@@ -70,21 +83,65 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="react logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo"  />
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
+    <img src="https://img.shields.io/badge/flask-4590A1?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
   </a>
   <img width="12" />
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
   </a>
   <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <a href="https://https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=white&style=for-the-badge" height="40" alt="tailwind logo"  />
+  </a>
+</div>
+
+  ###
+
+  Mobile
+
+<div align="left">
+  <img width="12" />
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React%20native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="react native logo"  />
+  </a>
+   <img width="12" />
+  <a href="https://expo.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white" height="40" alt="tailwind logo"  />
+  </a>
+</div>
+
+  ###
+
+  Backend Tools
+
+<div align="left">
+ <img width="12" />
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" height="40" alt="tailwind logo"  />
+  </a>
+   <img width="12" />
+  <a href="https://workers.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/cloudflare%20workers-F38020?style=for-the-badge&logo=cloudflare%20workers&logoColor=white" height="40" alt="tailwind logo"  />
   </a>
   <img width="12" />
-  <a href="https://mui.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="40" alt="materialui logo"  />
-  </a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white" height="40" alt="mysql logo"  />
+</a>
+  <img width="12" />
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" height="40" alt="postgresql logo"  />
+</a>
+  <img width="12" />
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/aws-232F3E?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" height="40" alt="amazonwebservices logo"  />
+</a>
+</div>
+
+###
+AI/ML
+
+  <div align="left">
   <img width="12" />
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="tensorflow logo"  />
@@ -97,7 +154,7 @@
 
 ###
 
-<p align="left">Tools</p>
+<p align="left">Gamedev Tools</p>
 
 ###
 
@@ -110,32 +167,8 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
 </a>
   <img width="12" />
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-</a>
-  <img width="12" />
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</a>
-  <img width="12" />
 <a href="https://www.blender.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-</a>
-  <img width="12" />
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-</a>
-  <img width="12" />
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-</a>
-  <img width="12" />
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-</a>
-  <img width="12" />
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
 </a>
 </div>
 
