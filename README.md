@@ -121,9 +121,17 @@ Web
     <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" height="40" alt="tailwind logo"  />
   </a>
    <img width="12" />
-  <a href="https://workers.cloudflare.com/" target="_blank">
-    <img src="https://img.shields.io/badge/cloudflare%20workers-F38020?style=for-the-badge&logo=cloudflare%20workers&logoColor=white" height="40" alt="tailwind logo"  />
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="tailwind logo"  />
   </a>
+    <img width="12" />
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/aws-232F3E?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" height="40" alt="amazonwebservices logo"  />
+</a>
+     <img width="12" />
+<a href="https://www.pingcap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/tidb-000000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDUwIj4KPHBhdGggZD0iTTIxLjI4NzcgMC4zMDA3ODFMMC4yOTM5NDUgMTIuNjY5NFYzNy40MDI1TDIxLjI4NzcgNDkuNzcxMUw0Mi4yNzczIDM3LjQwMjVWMTIuNjY5NEwyMS4yODc3IDAuMzAwNzgxWiIgZmlsbD0iI0RDMTUwQiIgLz4KPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0LjI4NzYgMzcuNDAyOFYyMC45MTU1TDcuMjkxMDIgMjUuMDM4NFYxNi43OTI2TDIxLjI4ODIgOC41NDY4OEwyOC4yODQ4IDEyLjY2OThMMjEuMjg4MiAxNi43OTI2VjQxLjUyNTdMMTQuMjg3NiAzNy40MDI4WiIgLz4KPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTI4LjI4NDIgMzcuNDAzMVYyMC45MTU5TDM1LjI4MDcgMTYuNzkzVjMzLjI4MDNMMjguMjg0MiAzNy40MDMxWiIgLz4KPC9zdmc+&style=for-the-badge" height="40" alt="postgresql logo"  />
+</a>
   <img width="12" />
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white" height="40" alt="mysql logo"  />
@@ -131,10 +139,6 @@ Web
   <img width="12" />
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" height="40" alt="postgresql logo"  />
-</a>
-  <img width="12" />
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/aws-232F3E?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" height="40" alt="amazonwebservices logo"  />
 </a>
 </div>
 
