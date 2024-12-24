@@ -27,24 +27,29 @@
 ###
 <div align="left">
   <a href="https://www.oracle.com/developer/javascript/" target="_blank" >
-    <img href="https://www.oracle.com/developer/javascript/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   </a>
   <img width="12" />
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />  
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   </a>
   <img width="12" />
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+    <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   </a>
   <img width="12" />
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   </a>
+  <img width="12" />
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  </a>
+  
 </div>
 
 ###
@@ -82,17 +87,25 @@ Web
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="react logo"  />
   </a>
+<img width="12" />
+   <a href="https://nuxt.com/" target="_blank">
+ <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="40" alt="nuxtjs logo"  />
+   </a>
+  <img width="12" />
+   <a href="https://vuejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
+   </a>
   <img width="12" />
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank">
     <img src="https://img.shields.io/badge/flask-4590A1?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
   </a>
   <img width="12" />
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
-  </a>
-  <img width="12" />
   <a href="https://https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=white&style=for-the-badge" height="40" alt="tailwind logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
   </a>
 </div>
 
@@ -130,7 +143,7 @@ Web
 </a>
      <img width="12" />
 <a href="https://www.pingcap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/tidb-000000.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQwIDUwIj4KPHBhdGggZD0iTTIxLjI4NzcgMC4zMDA3ODFMMC4yOTM5NDUgMTIuNjY5NFYzNy40MDI1TDIxLjI4NzcgNDkuNzcxMUw0Mi4yNzczIDM3LjQwMjVWMTIuNjY5NEwyMS4yODc3IDAuMzAwNzgxWiIgZmlsbD0iI0RDMTUwQiIgLz4KPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0LjI4NzYgMzcuNDAyOFYyMC45MTU1TDcuMjkxMDIgMjUuMDM4NFYxNi43OTI2TDIxLjI4ODIgOC41NDY4OEwyOC4yODQ4IDEyLjY2OThMMjEuMjg4MiAxNi43OTI2VjQxLjUyNTdMMTQuMjg3NiAzNy40MDI4WiIgLz4KPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTI4LjI4NDIgMzcuNDAzMVYyMC45MTU5TDM1LjI4MDcgMTYuNzkzVjMzLjI4MDNMMjguMjg0MiAzNy40MDMxWiIgLz4KPC9zdmc+&style=for-the-badge" height="40" alt="postgresql logo"  />
+ <img src="https://img.shields.io/badge/tidb-DC150B.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMiA1IDQwIDQwIj4KPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0LjI4NzYgMzcuNDAyOFYyMC45MTU1TDcuMjkxMDIgMjUuMDM4NFYxNi43OTI2TDIxLjI4ODIgOC41NDY4OEwyOC4yODQ4IDEyLjY2OThMMjEuMjg4MiAxNi43OTI2VjQxLjUyNTdMMTQuMjg3NiAzNy40MDI4WiIgLz4KPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTI4LjI4NDIgMzcuNDAzMVYyMC45MTU5TDM1LjI4MDcgMTYuNzkzVjMzLjI4MDNMMjguMjg0MiAzNy40MDMxWiIgLz4KPC9zdmc+&style=for-the-badge" height="40" alt="tidb logo" />
 </a>
   <img width="12" />
 <a href="https://www.mysql.com/" target="_blank">
@@ -140,6 +153,15 @@ Web
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" height="40" alt="postgresql logo"  />
 </a>
+  <img width="12" />
+  <a href="https://www.mongodb.com/" target="_blank">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://hasura.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura&logoColor=white&style=for-the-badge" height="40" alt="hasura logo"  />
+  </a>
+  
 </div>
 
 ###
