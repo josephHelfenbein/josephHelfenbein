@@ -46,6 +46,10 @@
     <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   </a>
   <img width="12" />
+  <a href="https://www.java.com/en/" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  </a>
+  <img width="12" />
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   </a>
@@ -100,6 +104,10 @@ Web
     <img src="https://img.shields.io/badge/flask-4590A1?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
   </a>
   <img width="12" />
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
+  </a>
+  <img width="12" />
   <a href="https://https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?logo=tailwind%20css&logoColor=white&style=for-the-badge" height="40" alt="tailwind logo"  />
   </a>
@@ -140,6 +148,10 @@ Web
     <img width="12" />
 <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://img.shields.io/badge/aws-232F3E?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" height="40" alt="amazonwebservices logo"  />
+</a>
+  <img width="12" />
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/google%20cloud-4285F4?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" height="40" alt="amazonwebservices logo"  />
 </a>
      <img width="12" />
 <a href="https://www.pingcap.com/" target="_blank">
@@ -213,6 +225,6 @@ AI/ML
 
 ###
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=josephHelfenbein](https://github-readme-stats.vercel.app/api/top-langs/?username=josephHelfenbein)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact)
 
 ###
