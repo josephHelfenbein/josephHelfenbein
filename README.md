@@ -62,19 +62,19 @@
 
 ###
 
-3D
+GPU
 
 <div align="left">
+  <a href="https://developer.nvidia.com/cuda-toolkit/" target="_blank">
+    <img src="https://img.shields.io/badge/cuda-76B900?logo=nvidia&logoColor=white&style=for-the-badge" height="40" alt="cuda logo"  />
+  </a>
+  <img width="12" />
   <a href="https://www.opengl.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" height="40" alt="opengl logo"  />
   </a>
   <img width="12" />
   <a href="https://www.khronos.org/webgl/" target="_blank">
     <img src="https://img.shields.io/badge/webgl-red?logo=webgl&style=for-the-badge&logoColor=white" height="40" alt="webgl logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="40" alt="threejs logo"  />
   </a>
 </div>
 
@@ -119,21 +119,6 @@ Web
 
   ###
 
-  Mobile
-
-<div align="left">
-  <img width="12" />
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React%20native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="react native logo"  />
-  </a>
-   <img width="12" />
-  <a href="https://expo.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white" height="40" alt="tailwind logo"  />
-  </a>
-</div>
-
-  ###
-
   Backend Tools
 
 <div align="left">
@@ -143,7 +128,7 @@ Web
   </a>
    <img width="12" />
   <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="tailwind logo"  />
+    <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="40" alt="cloudflare logo"  />
   </a>
     <img width="12" />
 <a href="https://aws.amazon.com/" target="_blank">
@@ -151,7 +136,7 @@ Web
 </a>
   <img width="12" />
 <a href="https://cloud.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/google%20cloud-4285F4?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" height="40" alt="amazonwebservices logo"  />
+  <img src="https://img.shields.io/badge/google%20cloud-4285F4?logo=google%20cloud&style=for-the-badge&logoColor=white" height="40" alt="googlecloud logo"  />
 </a>
      <img width="12" />
 <a href="https://www.pingcap.com/" target="_blank">
