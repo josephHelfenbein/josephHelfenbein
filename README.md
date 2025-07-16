@@ -38,6 +38,35 @@ GPU
 
 ###
 
+  Backend Tools
+
+<div align="left">
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/aws-232F3E?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" alt="amazonwebservices logo"  />
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/google%20cloud-4285F4?logo=google%20cloud&style=for-the-badge&logoColor=white" alt="googlecloud logo"  />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql logo"  />
+</a>
+  <a href="https://hasura.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura&logoColor=white&style=for-the-badge" alt="hasura logo"  />
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare logo"  />
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="tailwind logo"  />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb logo"  />
+  </a>
+  
+</div>
+
+###
+
 Web
 
 <div align="left">
@@ -67,34 +96,6 @@ Web
   </a>
 </div>
 
-###
-
-  Backend Tools
-
-<div align="left">
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/aws-232F3E?logo=amazon%20web%20services&style=for-the-badge&logoColor=white" alt="amazonwebservices logo"  />
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/google%20cloud-4285F4?logo=google%20cloud&style=for-the-badge&logoColor=white" alt="googlecloud logo"  />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql logo"  />
-</a>
-  <a href="https://hasura.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura&logoColor=white&style=for-the-badge" alt="hasura logo"  />
-  </a>
-  <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare logo"  />
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="tailwind logo"  />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb logo"  />
-  </a>
-  
-</div>
 
 ###
 
