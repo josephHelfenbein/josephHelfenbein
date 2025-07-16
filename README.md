@@ -90,9 +90,6 @@ Web
   <a href="https://supabase.com/" target="_blank">
     <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="tailwind logo"  />
   </a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white" alt="mysql logo"  />
-</a>
   <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb logo"  />
   </a>
