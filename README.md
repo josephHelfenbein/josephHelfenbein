@@ -50,17 +50,20 @@ GPU
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql logo"  />
 </a>
-  <a href="https://hasura.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Hasura-1EB4D4?logo=hasura&logoColor=white&style=for-the-badge" alt="hasura logo"  />
-  </a>
   <a href="https://www.cloudflare.com/" target="_blank">
     <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="cloudflare logo"  />
   </a>
   <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="tailwind logo"  />
+    <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="supabase logo"  />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="mongodb logo"  />
+  </a>
+  <a href="https://developer.hashicorp.com/terraform" target="_blank">
+<img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge" alt="terraform logo"  />
+  </a>
+  <a href="https://www.pulumi.com/" target="_blank">
+<img src="https://img.shields.io/badge/Pulumi-8A3391?logo=pulumi&logoColor=white&style=for-the-badge" alt="pulumi logo"  />
   </a>
   
 </div>
