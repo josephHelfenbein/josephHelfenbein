@@ -14,7 +14,7 @@
 <h3 align="left">Languages</h3>
 
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact)
+![https://github-readme-stats-one-phi-46.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact](https://github-readme-stats-one-phi-46.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact)
 
 
 <h3 align="left">Frameworks & Libraries</h3>
