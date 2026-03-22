@@ -29,11 +29,14 @@
     <a href="https://developer.apple.com/metal/" target="_blank">
     <img src="https://img.shields.io/badge/metal-0DBF8D.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iNzIwcHgiIGhlaWdodD0iNzIwcHgiIHZpZXdCb3g9IjEyMCAxMjAgNTUwIDU1MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgICAgICAgICAgPHBvbHlnb24gZmlsbD0iI2ZmZmZmZiIgcG9pbnRzPSIxNDEgMTMyIDMzNCAzNjggMzM0IDE5NSA2NTEgNTQ1IDU2OSA1NDUgMzk4IDM2NCAzOTYgNTQ1IDIwNSAzMDkgMjA1IDU0NSAxNDEgNTQ1Ii8+Cjwvc3ZnPg==&logoColor=white&style=for-the-badge" alt="metal logo"  />
   </a>
+    <a href="https://webgpu.org/" target="_blank">
+    <img src="https://img.shields.io/badge/webgpu-005A9C?logo=webgpu&style=for-the-badge&logoColor=white" alt="webgpu logo"  />
+  </a>
   <a href="https://www.opengl.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge" alt="opengl logo"  />
   </a>
   <a href="https://www.khronos.org/webgl/" target="_blank">
-    <img src="https://img.shields.io/badge/webgl-red?logo=webgl&style=for-the-badge&logoColor=white" alt="webgl logo"  />
+    <img src="https://img.shields.io/badge/webgl-990000?logo=webgl&style=for-the-badge&logoColor=white" alt="webgl logo"  />
   </a>
 </div>
 
