@@ -11,7 +11,7 @@
 
 ### Top Languages
 
-![https://github-readme-stats-one-phi-46.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact](https://github-readme-stats-one-phi-46.vercel.app/api/top-langs/?username=josephHelfenbein&layout=compact)
+![https://github-readme-stats-one-phi-46.vercel.app/api/top-langs/?username=josephHelfenbein&layout=pie&hide=Dart&langs_count=10](https://github-readme-stats-one-phi-46.vercel.app/api/top-langs/?username=josephHelfenbein&layout=pie&hide=Dart&langs_count=10)
 
 
 ### GPU & Rendering
